@@ -1,0 +1,17 @@
+Q. What happens when you initialize a repository?
+Why do you need to do it?
+A. When git is initialized, The repository is being tracked.
+HEAD position is also assigned. .git file helps keep track of the
+different versions of the file.
+
+Q. How is the staging area different from the working directory
+and the repository? What value do you think it offers?
+A. Well, Repository consists of the files with the latest commit
+and their versions. While the working directory contains the latest
+edit of the files or new files that are yet to be saved.
+Staging area is used to bundle up multiple files to be saved simultaneously
+as a single commit.
+It provides better control over what we commit. Like a single change
+can have effects on multiple files. So we edit all those files and
+and commit them together with a single git commit message.
+
