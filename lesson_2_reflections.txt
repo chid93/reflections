@@ -19,3 +19,7 @@ Q. What are some situations when branches would be helpful in keeping your
 history organized? How would branches help?
 A. When you perform experimental changes or add a new feature or fix bugs.
 
+Q. How do the diagrams help you visualize the branch structure?
+A. We can get an overall image as to what are all the work currently
+being performed on the master project. Like what are all the features
+being added and all the bugs being focused on.
