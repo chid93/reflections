@@ -15,3 +15,7 @@ It provides better control over what we commit. Like a single change
 can have effects on multiple files. So we edit all those files and
 and commit them together with a single git commit message.
 
+Q. What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+A. When you perform experimental changes or add a new feature or fix bugs.
+
