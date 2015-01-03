@@ -4,3 +4,12 @@ work local?
     When you wish to have portability. Or when you need access to them and use
     them from multiple systems. This keeps you a git clone away from accessing
     your work.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    For one, I'm not the only on accessing the remote repo. So there might be
+    someone else who has permissions to change the same file I'm working on. So,
+    if they change it without my knowledge and it gets synced to my system, I'd
+    want to throw my computer out of the window for having merged unnecessary
+    content to my local files!
