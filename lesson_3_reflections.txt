@@ -37,3 +37,13 @@ stored locally?
 Also, remember, For Syncing the remote with the local repository.. We'd have
 to first Pull(Fetch + Merge) from the repository and then Push to the
 repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+    Without using GitHub, We would have to show each other's code and the
+    modification performed on them one by one. It's a mess all together. We can
+    make diff using other softwares, but we would have to diff each time an
+    update is made to the pull request. GitHub makes comparing files, comparing
+    modified files and merging of codes automatic.
+    As to what would be easier, I have no clue :/
