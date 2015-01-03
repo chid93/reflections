@@ -1,26 +1,28 @@
-Q. How did viewing a diff between two versions of a file
-   help you see the bug that was introduced?
-A. How you ask.. hmm.. Well, it's simply amazing to learn what all
-industries use in the first place. And diff helps to easily edit
-master copy and copies of it very easily. It's an epic must know
-feature.
+How did viewing a diff between two versions of a file help you see the bug
+that was introduced?
 
-Q. How could having easy access to the entire history of a
-   file make you a more efficient programmer in the long term?
-A. This is a major advantage to projects with multiple departments
-working on them. With the entire history of a file, we can easily access
-stable and non stable versions of a file with no fuss.
-Besides, programmers get mind fucked most often than not. Versions help
-resolve the mistakes performed with unstable mind xD
+    How you ask.. hmm.. Well, it's simply amazing to learn what all industries
+    use in the first place. And diff helps to easily edit master copy and copies
+    of it very easily. It's an epic must know feature.
 
-Q.What do you think are the pros and cons of manually choosing
-when to create a commit, like you do in Git, vs having versions
-automatically saved, like Google docs does?
-A.Auto save leads to non logical code when it comes to programming.
-Committing after logical changes that programmers comprehend will
-lead to better debugging.
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
 
-Q.Why do you think some version control systems, like Git, allow
-saving multiple files in one commit, while others, like Google Docs,
-treat each file separately?
-A. Because files maybe interrelated.
+    This is a major advantage to projects with multiple departments working on
+    them. With the entire history of a file, we can easily access stable and non
+    stable versions of a file with no fuss. Besides, programmers get mind fucked
+    most often than not. Versions help resolve the mistakes performed with
+    unstable mind xD
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Auto save leads to non logical code when it comes to programming.Committing
+    after logical changes that programmers comprehend will lead to better
+    debugging.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because files maybe interrelated.
