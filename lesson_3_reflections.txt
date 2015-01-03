@@ -23,3 +23,17 @@ one instead of another?
     we want use our files on different systems or we want our collaborators to
     use them. Branches is used for testing out new features or experimenting our
     code.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    Syncing becomes easier. Git becomes more efficient by fast forwarding merges
+    instead of calculating the number of additions and deletions of lines.
+    Conflicts can be resolved while pertaining the logical meaning behind the
+    code or the content.
+    By my understanding, only the commits after the last known state have to be
+    pushed while pushing from local to remote repository.
+
+Also, remember, For Syncing the remote with the local repository.. We'd have
+to first Pull(Fetch + Merge) from the repository and then Push to the
+repository.
