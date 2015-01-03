@@ -1,4 +1,0 @@
-When would you want to use a remote repository rather than keeping all your work local?
-
-        When you wish to have portability. Or when you need access to them and use them from multiple systems. This keeps you a git clone away from accessing your work.
-  
