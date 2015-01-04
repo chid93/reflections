@@ -47,3 +47,9 @@ what would be harder?
     update is made to the pull request. GitHub makes comparing files, comparing
     modified files and merging of codes automatic.
     As to what would be easier, I have no clue :/
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+    I would want to make a separate branch when there is a supervisor to the
+    code. Or maybe I want to keep resumes for two careers.
